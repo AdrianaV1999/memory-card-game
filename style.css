@@ -1,4 +1,6 @@
 body {
+  zoom: 2;
+  overflow: hidden;
   font-family: "Outfit", sans-serif;
   min-height: 100vh;
   background: linear-gradient(to left, #3a56c4, #1f247e);
@@ -290,7 +292,11 @@ h2 {
   outline: none;
 }
 
-@media (max-width: 468px) {
+@media (max-width: 880px) {
+  body {
+    zoom: 1.2;
+  }
+
   h1 {
     font-size: 16px;
   }
@@ -299,7 +305,7 @@ h2 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 90%;
+    width: 70%;
     box-sizing: border-box;
     margin-top: 0;
   }
