@@ -2,7 +2,7 @@
 
 This application is an educational memory game that helps students practice attention and learning by revealing 3D geometric shapes. It is built with **HTML**, **CSS**, **JavaScript**, and **Three.js**.
 
-![Game Preview](assets/Screenshot%202025-08-04%20202532.png)
+![Game Preview](assets/game.png)
 
 ## Live Preview
 
