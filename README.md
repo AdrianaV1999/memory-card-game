@@ -58,4 +58,4 @@ To run this project locally:
 
 ---
 
-This project demonstrates **3D graphics**, interactivity, and educational value through a simple game.
+This project demonstrates **3D graphics**, interactivity and educational value through a simple game.
