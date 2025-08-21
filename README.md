@@ -27,7 +27,7 @@ https://adrianav1999.github.io/memory-card-game/
 
 **memory-card-game/**
  - **assets/** – images 
- - **cards.json** – information about 3D shapes  
+ - **data/cards.json** – information about 3D shapes  
  - **index.html** – main HTML file  
  - **index.css** – stylesheet  
  - **index.js** – game logic & Three.js objects  
@@ -36,7 +36,7 @@ https://adrianav1999.github.io/memory-card-game/
 
 - **HTML** — Page and element structure.
 - **CSS** — Styling and layout.
-- **JavaScript** — Game logic, timer, match checking, and interactivity.
+- **JavaScript** — Game logic, timer, match checking and interactivity.
 - **Three.js** — Creation and display of 3D geometric shapes on cards.
 
 ## Installation / How to Run
