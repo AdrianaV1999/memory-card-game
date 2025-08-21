@@ -25,11 +25,12 @@ https://adrianav1999.github.io/memory-card-game/
 
 ## Structure
 
-├── assets/ # Folder containing images, 3D models, or other media files
-├── cards.json # JSON file with information about the 3D shapes 
-├── index.html # Main HTML file for the game
-├── index.css # Stylesheet for layout and design
-└── index.js # JavaScript file handling game logic, timer, and Three.js objects
+**memory-card-game/**
+ ├── **assets/** – images 
+ ├── **cards.json** – information about 3D shapes  
+ ├── **index.html** – main HTML file  
+ ├── **index.css** – stylesheet  
+ └── **index.js** – game logic & Three.js objects  
 
 ## Technologies Used
 
