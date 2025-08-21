@@ -23,7 +23,7 @@ https://adrianav1999.github.io/memory-card-game/
   - Shape composition
 - Cards are shown as **3D geometric shapes** created with **Three.js**.
 
-## Components
+## Structure
 
 ├── assets/ # Folder containing images, 3D models, or other media files
 ├── cards.json # JSON file with information about the 3D shapes 
