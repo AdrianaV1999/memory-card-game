@@ -1,6 +1,7 @@
 # Edukational Memory Game
 
 This application is an educational memory game that helps students practice attention and learning by revealing 3D geometric shapes. It is built with **HTML**, **CSS**, **JavaScript**, and **Three.js**.
+![Game Preview](https://via.placeholder.com/400x200.png?text=Memory+Game)
 ![Uploading Screenshot 2025-08-04 202532.png…]()
 
 ## Live Preview
