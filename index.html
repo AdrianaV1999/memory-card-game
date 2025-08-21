@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Igra memorije sa 3D oblicima</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="assets/memory.png" type="image/png" />
+    <script src="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"></script>
+  </head>
+  <body>
+    <h1>Igra memorije sa 3D oblicima</h1>
+    <div class="status-bar">
+      <p class="time">Vreme: <span class="timer">02:00</span></p>
+      <p class="level">Nivo: <span class="level-number">1</span></p>
+      <p class="score-text">Pogodak: <span class="score">0</span></p>
+      <p class="attempts">Pokušaj: <span class="attempts-count">0</span></p>
+    </div>
+
+    <div class="grid-container"></div>
+
+    <div class="actions">
+      <button onclick="restart()">KRENI</button>
+    </div>
+
+    <div id="blurOverlay" class="blur-overlay"></div>
+    <div id="popupMessage" class="message-container">
+      <button class="close-button" onclick="closePopup()">×</button>
+      <img id="popupImage" src="assets/party.png" alt="Party!" />
+      <p id="messageText"></p>
+
+      <div class="actions">
+        <button id="nextLevelButton" style="display: none">
+          Nastavi dalje
+        </button>
+        <button id="restartButton" style="display: none">Igraj ponovo</button>
+      </div>
+    </div>
+
+    <div id="matchPopup" class="match-popup hidden">
+      <div class="popup-content">
+        <p id="matchDescription"></p>
+      </div>
+    </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+[
+  { "name": "sphere" },
+  { "name": "cube" },
+  { "name": "cone" },
+  { "name": "cylinder" },
+  { "name": "pyramid" },
+  { "name": "cuboid" },
+  { "name": "octahedron" },
+  { "name": "coneTall" },
+  { "name": "triangularPrism" }
+]
