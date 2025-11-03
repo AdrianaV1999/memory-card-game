@@ -21,7 +21,7 @@ https://adrianav1999.github.io/memory-card-game/
   - Shape name
   - Shape image
   - Shape composition
-- Cards are shown as **3D geometric shapes** created with **Three.js**.
+- The cards display 3D geometric shapes created with **Three.js**.
 
 ## Structure
 
@@ -34,10 +34,10 @@ https://adrianav1999.github.io/memory-card-game/
 
 ## Technologies Used
 
-- **HTML** — Page and element structure.
-- **CSS** — Styling and layout.
-- **JavaScript** — Game logic, timer, match checking and interactivity.
-- **Three.js** — Creation and display of 3D geometric shapes on cards.
+- **HTML** — Page and element structure
+- **CSS** — Styling and layout
+- **JavaScript** — Game logic, timer, match checking and interactivity
+- **Three.js** — Creation and display of 3D geometric shapes on cards
 
 ## Installation / How to Run
 
