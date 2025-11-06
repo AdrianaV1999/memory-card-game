@@ -6,7 +6,7 @@ This educational web game helps students practice attention and learning by reve
 
 ## Live Preview
 
-Check out the live app here:  
+Check out the live demo here:  
 https://adrianav1999.github.io/memory-card-game/
 
 ## Features
@@ -35,7 +35,7 @@ https://adrianav1999.github.io/memory-card-game/
 ## Technologies Used
 
 - **HTML** — Page and element structure
-- **CSS** — Styling and layout
+- **CSS** — Styling 
 - **JavaScript** — Game logic, timer, match checking and interactivity
 - **Three.js** — Creation and display of 3D geometric shapes on cards
 
