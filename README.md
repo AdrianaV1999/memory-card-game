@@ -1,6 +1,6 @@
 # Educational Memory Game
 
-TThis educational web game helps students practice attention and learning by revealing 3D geometric shapes. It is built with **HTML**, **CSS**, **JavaScript** and **Three.js**.
+This educational web game helps students practice attention and learning by revealing 3D geometric shapes. It is built with **HTML**, **CSS**, **JavaScript** and **Three.js**.
 
 ![Game Preview](assets/game.png)
 
